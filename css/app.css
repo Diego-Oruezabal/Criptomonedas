@@ -7,19 +7,13 @@ img {
 
 h1 {
     color: white;
-    text-align: left;
+    text-align: center;
     font-weight: 700;
     font-size: 50px;
-    margin-bottom: 50px;
-    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
-h1::after {
-    content: '';
-    width: 100px;
-    height:6px;
-    background-color: #66a2fe;
-    display: block;
-}
+
 .container img {
     margin-top: 150px;
 }
